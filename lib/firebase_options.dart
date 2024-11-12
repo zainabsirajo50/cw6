@@ -63,6 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '312777705485',
     projectId: 'classwork6-3',
     storageBucket: 'classwork6-3.firebasestorage.app',
+    iosClientId: '312777705485-ceumeaiov7hsfmsl47qvmfdidk7gjrgr.apps.googleusercontent.com',
     iosBundleId: 'com.example.cw6',
   );
 
@@ -72,6 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '312777705485',
     projectId: 'classwork6-3',
     storageBucket: 'classwork6-3.firebasestorage.app',
+    iosClientId: '312777705485-ceumeaiov7hsfmsl47qvmfdidk7gjrgr.apps.googleusercontent.com',
     iosBundleId: 'com.example.cw6',
   );
 
